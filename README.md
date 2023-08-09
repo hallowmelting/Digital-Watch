@@ -1,4 +1,5 @@
 # Seven-Segment Clock Verilog Module
+![schematic](image/schematic.png)
 
 This is a Verilog module for displaying the time on a seven-segment display. The module takes in a clock signal, reset signal, and button input, and outputs a seven-segment display value and a segment common value. The code is intended to be used on a Zedboard, but can be modified for use on other platforms.
 
